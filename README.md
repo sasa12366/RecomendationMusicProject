@@ -1,4 +1,3 @@
-# Music Recommendation Application
 ## Introduction
 > **User story:**
 > As music fan, I want to find song, so I can listen it.
